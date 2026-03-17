@@ -1,0 +1,11 @@
+a{
+    color: greenyellow;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: pink;
+}
